@@ -1,0 +1,2 @@
+En resumen lo que pasa es que la carpeta public es para que acceda el 
+navegador, en esta carpeta van las paguinas css y js
